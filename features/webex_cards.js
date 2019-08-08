@@ -27,7 +27,6 @@ module.exports = function (controller) {
         "imagegallery",
         "inputform",
         "inputs",
-        "productvideo",
         "restaurant",
         "sportingevent",
         "stockupdate",
