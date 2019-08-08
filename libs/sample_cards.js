@@ -2336,15 +2336,6 @@ module.exports = {
                             "items": [
                                 {
                                     "type": "Image",
-                                    "selectAction": {
-                                        "type": "Action.ToggleVisibility",
-                                        "title": "collapse",
-                                        "targetElements": [
-                                            "cardContent1",
-                                            "chevronUp1",
-                                            "chevronDown1"
-                                        ]
-                                    },
                                     "url": "https://adaptivecards.io/content/down.png",
                                     "width": "20px",
                                     "altText": "collapsed"
@@ -2361,15 +2352,6 @@ module.exports = {
                             "items": [
                                 {
                                     "type": "Image",
-                                    "selectAction": {
-                                        "type": "Action.ToggleVisibility",
-                                        "title": "expand",
-                                        "targetElements": [
-                                            "cardContent1",
-                                            "chevronUp1",
-                                            "chevronDown1"
-                                        ]
-                                    },
                                     "url": "https://adaptivecards.io/content/up.png",
                                     "width": "20px",
                                     "altText": "expanded"
@@ -2489,15 +2471,6 @@ module.exports = {
                             "items": [
                                 {
                                     "type": "Image",
-                                    "selectAction": {
-                                        "type": "Action.ToggleVisibility",
-                                        "title": "collapse",
-                                        "targetElements": [
-                                            "cardContent2",
-                                            "chevronUp2",
-                                            "chevronDown2"
-                                        ]
-                                    },
                                     "url": "https://adaptivecards.io/content/down.png",
                                     "width": "20px",
                                     "altText": "collapsed"
@@ -2514,15 +2487,6 @@ module.exports = {
                             "items": [
                                 {
                                     "type": "Image",
-                                    "selectAction": {
-                                        "type": "Action.ToggleVisibility",
-                                        "title": "expand",
-                                        "targetElements": [
-                                            "cardContent2",
-                                            "chevronUp2",
-                                            "chevronDown2"
-                                        ]
-                                    },
                                     "url": "https://adaptivecards.io/content/up.png",
                                     "width": "20px",
                                     "altText": "expanded"
@@ -2636,15 +2600,6 @@ module.exports = {
                             "items": [
                                 {
                                     "type": "Image",
-                                    "selectAction": {
-                                        "type": "Action.ToggleVisibility",
-                                        "title": "collapse",
-                                        "targetElements": [
-                                            "cardContent3",
-                                            "chevronUp3",
-                                            "chevronDown3"
-                                        ]
-                                    },
                                     "url": "https://adaptivecards.io/content/down.png",
                                     "width": "20px",
                                     "altText": "collapsed"
@@ -2661,15 +2616,6 @@ module.exports = {
                             "items": [
                                 {
                                     "type": "Image",
-                                    "selectAction": {
-                                        "type": "Action.ToggleVisibility",
-                                        "title": "expand",
-                                        "targetElements": [
-                                            "cardContent3",
-                                            "chevronUp3",
-                                            "chevronDown3"
-                                        ]
-                                    },
                                     "url": "https://adaptivecards.io/content/up.png",
                                     "width": "20px",
                                     "altText": "expanded"
@@ -2827,15 +2773,6 @@ module.exports = {
                                 {
                                     "type": "Column",
                                     "id": "chevronDown4",
-                                    "selectAction": {
-                                        "type": "Action.ToggleVisibility",
-                                        "title": "show history",
-                                        "targetElements": [
-                                            "cardContent4",
-                                            "chevronUp4",
-                                            "chevronDown4"
-                                        ]
-                                    },
                                     "verticalContentAlignment": "Center",
                                     "items": [
                                         {
@@ -2852,15 +2789,6 @@ module.exports = {
                                     "type": "Column",
                                     "id": "chevronUp4",
                                     "isVisible": false,
-                                    "selectAction": {
-                                        "type": "Action.ToggleVisibility",
-                                        "title": "hide history",
-                                        "targetElements": [
-                                            "cardContent4",
-                                            "chevronUp4",
-                                            "chevronDown4"
-                                        ]
-                                    },
                                     "verticalContentAlignment": "Center",
                                     "items": [
                                         {
