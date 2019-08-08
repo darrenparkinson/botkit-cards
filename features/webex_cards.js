@@ -3,7 +3,6 @@ const samplecards = require('../libs/sample_cards');
 module.exports = function (controller) {
 
     controller.hears('help', 'message,direct_message', async (bot, message) => {
-        console.log(samples.join("  \n* "))
         await bot.reply(message, { markdown: helpmarkdown });
     });
 
