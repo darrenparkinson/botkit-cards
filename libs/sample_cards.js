@@ -1868,7 +1868,7 @@ module.exports = {
                             "items": [
                                 {
                                     "type": "Image",
-                                    "url": "http://messagecardplayground.azurewebsites.net/assets/Mostly%20Cloudy-Square.png",
+                                    "url": "https://raw.githubusercontent.com/darrenparkinson/botkit-cards/master/images/Mostly%20Cloudy-Square.png",
                                     "size": "small"
                                 }
                             ]
@@ -1926,7 +1926,7 @@ module.exports = {
             "type": "AdaptiveCard",
             "version": "1.0",
             "speak": "Weather forecast for Monday is high of 62 and low of 42 degrees with a 20% chance of rainWinds will be 5 mph from the northeast",
-            "backgroundImage": "http://messagecardplayground.azurewebsites.net/assets/Mostly%20Cloudy-Background-Dark.jpg",
+            "backgroundImage": "https://raw.githubusercontent.com/darrenparkinson/botkit-cards/master/images/Mostly%20Cloudy-Background-Dark.jpg",
             "body": [
                 {
                     "type": "ColumnSet",
@@ -1937,7 +1937,7 @@ module.exports = {
                             "items": [
                                 {
                                     "type": "Image",
-                                    "url": "http://messagecardplayground.azurewebsites.net/assets/Mostly%20Cloudy-Square.png",
+                                    "url": "https://raw.githubusercontent.com/darrenparkinson/botkit-cards/master/images/Mostly%20Cloudy-Square.png",
                                     "size": "stretch"
                                 }
                             ]
@@ -1991,7 +1991,7 @@ module.exports = {
                                 {
                                     "type": "Image",
                                     "size": "auto",
-                                    "url": "http://messagecardplayground.azurewebsites.net/assets/Mostly%20Cloudy-Square.png"
+                                    "url": "https://raw.githubusercontent.com/darrenparkinson/botkit-cards/master/images/Mostly%20Cloudy-Square.png"
                                 },
                                 {
                                     "type": "TextBlock",
@@ -2027,7 +2027,7 @@ module.exports = {
                                 {
                                     "type": "Image",
                                     "size": "auto",
-                                    "url": "http://messagecardplayground.azurewebsites.net/assets/Drizzle-Square.png"
+                                    "url": "https://raw.githubusercontent.com/darrenparkinson/botkit-cards/master/images/Drizzle-Square.png"
                                 },
                                 {
                                     "type": "TextBlock",
@@ -2063,7 +2063,7 @@ module.exports = {
                                 {
                                     "type": "Image",
                                     "size": "auto",
-                                    "url": "http://messagecardplayground.azurewebsites.net/assets/Mostly%20Cloudy-Square.png"
+                                    "url": "https://raw.githubusercontent.com/darrenparkinson/botkit-cards/master/images/Mostly%20Cloudy-Square.png"
                                 },
                                 {
                                     "type": "TextBlock",
@@ -2099,7 +2099,7 @@ module.exports = {
                                 {
                                     "type": "Image",
                                     "size": "auto",
-                                    "url": "http://messagecardplayground.azurewebsites.net/assets/Mostly%20Cloudy-Square.png"
+                                    "url": "https://raw.githubusercontent.com/darrenparkinson/botkit-cards/master/images/Mostly%20Cloudy-Square.png"
                                 },
                                 {
                                     "type": "TextBlock",
