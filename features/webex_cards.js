@@ -14,6 +14,10 @@ module.exports = function (controller) {
         });
     });
 
+    controller.on('attachmentActions', async (bot, message) => {
+        let markdown = "Thanks.  Received:  \n```\n" + JSON.stringify(message.value) + "\n```\n"
+        await bot.reply(message, { markdown: markdown });
+    });
 
     const samples = [
         "activityupdate",
